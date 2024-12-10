@@ -2,20 +2,30 @@
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Net.Http.Headers;
-//https://fr24api.flightradar24.com/
+//\/https://fr24api.flightradar24.com/
+////https://aviationstack.com/documentation
 namespace PlaneTracker
 {
+    [Serializable]
     public class PlaneLocation
     {
-        public int lat { get; set; }
-        public int lon { get; set; }
-        public int flight { get; set; }
+        public int latitude { get; set; }
+        public int longitude { get; set; }
+        public string airline_icao_code { get; set; }
+        public int airline_iata_code { get; set; }
+        public string plane_status { get; set; }
+        public string registration_number { get; set; }
+        public string production_line { get; set; }
+
+        public PLaneTracker  :this(0, 0, string.Empty, 0, string.Empty, string .Empty, string.Empty)
+            { 
+            } // end constructor 
 
     }
 
-    public class Class1
+    public class LocationAPI
     {
-        private const string URL = "https://fr24api.flightradar24.com/api/sandbox/live/flight-positions/full?bounds=50.682,46.218,14.422,22.243";
+        private const string URL = "https://api.aviationstack.com/v1/flights";
         private string urlParameters = "?api_key=3fd198d3e525ba3f0490e5494b620ed2";
 
         static void Main(string[] args)
@@ -45,9 +55,11 @@ namespace PlaneTracker
 
             // Make any other calls using HttpClient here.
 
-            // Dispose once all HttpClient calls are complete. This is not necessary if the containing object will be disposed of; for example in this case the HttpClient instance will be disposed automatically when the application terminates so the following call is superfluous.
+            // Dispose once all HttpClient calls are complete.
+            // This is not necessary if the containing object will be disposed of;
+            // for example in this case the HttpClient instance will be disposed automatically
+            // when the application terminates so the following call is superfluous.
             client.Dispose();
         }
     }
 }
-If you plan on making mu
