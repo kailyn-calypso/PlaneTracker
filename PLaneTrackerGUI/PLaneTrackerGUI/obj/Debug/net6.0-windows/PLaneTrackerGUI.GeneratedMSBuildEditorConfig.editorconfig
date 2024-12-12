@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PLaneTrackerGUI
-build_property.ProjectDir = C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\
+build_property.ProjectDir = M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -15,3 +15,20 @@ C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Com
 C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.pdb
 C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.genruntimeconfig.cache
 C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\ref\PLaneTrackerGUI.dll
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\bin\Debug\net6.0-windows\PLaneTrackerGUI.exe
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\bin\Debug\net6.0-windows\PLaneTrackerGUI.deps.json
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\bin\Debug\net6.0-windows\PLaneTrackerGUI.runtimeconfig.json
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\bin\Debug\net6.0-windows\PLaneTrackerGUI.dll
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\bin\Debug\net6.0-windows\PLaneTrackerGUI.pdb
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.Form1View.resources
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.csproj.GenerateResource.cache
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.GeneratedMSBuildEditorConfig.editorconfig
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.AssemblyInfoInputs.cache
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.AssemblyInfo.cs
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.csproj.CoreCompileInputs.cache
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.sourcelink.json
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.dll
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\refint\PLaneTrackerGUI.dll
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.pdb
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.genruntimeconfig.cache
+M:\Kisaac\ACP\PlaneTracker\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\ref\PLaneTrackerGUI.dll
