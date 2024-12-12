@@ -1,0 +1,17 @@
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.csproj.AssemblyReference.cache
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.Form1View.resources
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.csproj.GenerateResource.cache
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.AssemblyInfoInputs.cache
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.AssemblyInfo.cs
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\bin\Debug\net6.0-windows\PLaneTrackerGUI.exe
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\bin\Debug\net6.0-windows\PLaneTrackerGUI.deps.json
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\bin\Debug\net6.0-windows\PLaneTrackerGUI.runtimeconfig.json
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\bin\Debug\net6.0-windows\PLaneTrackerGUI.dll
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\bin\Debug\net6.0-windows\PLaneTrackerGUI.pdb
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.dll
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\refint\PLaneTrackerGUI.dll
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.pdb
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\PLaneTrackerGUI.genruntimeconfig.cache
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\PLaneTrackerGUI\obj\Debug\net6.0-windows\ref\PLaneTrackerGUI.dll
