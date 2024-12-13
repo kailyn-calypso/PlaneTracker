@@ -10,14 +10,14 @@
         "projectUniqueName": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\PLaneTrackerGUI.csproj",
         "projectName": "PLaneTrackerGUI",
         "projectPath": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\PLaneTrackerGUI.csproj",
-        "packagesPath": "C:\\Users\\Isaacke\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\isaacke\\.nuget\\packages\\",
         "outputPath": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Isaacke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\isaacke\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

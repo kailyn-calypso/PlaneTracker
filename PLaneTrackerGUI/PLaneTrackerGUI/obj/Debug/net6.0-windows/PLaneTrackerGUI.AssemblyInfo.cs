@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PLaneTrackerGUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a3f31f75c91b866de2cc3d923fdf1051aa30f26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbce1e034b7086a255ef85343e8177bd4f320ed6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PLaneTrackerGUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PLaneTrackerGUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

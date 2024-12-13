@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|m:\\kisaac\\acp\\planetracker\\planetrackergui\\planetrackergui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|solutionrelative:planetrackergui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|m:\\kisaac\\acp\\planetracker\\planetrackergui\\planetrackergui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\planetrackergui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|solutionrelative:planetrackergui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|m:\\kisaac\\acp\\planetracker\\planetrackergui\\planetrackergui\\locationapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|solutionrelative:planetrackergui\\locationapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|m:\\kisaac\\acp\\planetracker\\planetrackergui\\planetrackergui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|solutionrelative:planetrackergui\\form1view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|m:\\kisaac\\acp\\planetracker\\planetrackergui\\planetrackergui\\form1view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|solutionrelative:planetrackergui\\form1view.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\planetrackergui\\form1view.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|solutionrelative:planetrackergui\\form1view.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|m:\\kisaac\\acp\\planetracker\\planetrackergui\\planetrackergui\\locationapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|solutionrelative:planetrackergui\\locationapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|m:\\kisaac\\acp\\planetracker\\planetrackergui\\planetrackergui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|solutionrelative:planetrackergui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\planetrackergui\\form1view.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D37B4FF5-4257-4DF4-8133-347E7CF0B46B}|PLaneTrackerGUI\\PLaneTrackerGUI.csproj|solutionrelative:planetrackergui\\form1view.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1View.cs [Design]",
               "DocumentMoniker": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\Form1View.cs",
               "RelativeDocumentMoniker": "PLaneTrackerGUI\\Form1View.cs",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LocationAPI.cs",
               "DocumentMoniker": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\LocationAPI.cs",
               "RelativeDocumentMoniker": "PLaneTrackerGUI\\LocationAPI.cs",
@@ -63,33 +63,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1View.Designer.cs",
               "DocumentMoniker": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\Form1View.Designer.cs",
               "RelativeDocumentMoniker": "PLaneTrackerGUI\\Form1View.Designer.cs",
               "ToolTip": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\Form1View.Designer.cs",
               "RelativeToolTip": "PLaneTrackerGUI\\Form1View.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T23:27:52.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1View.cs",
               "DocumentMoniker": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\Form1View.cs",
               "RelativeDocumentMoniker": "PLaneTrackerGUI\\Form1View.cs",
               "ToolTip": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\Form1View.cs",
               "RelativeToolTip": "PLaneTrackerGUI\\Form1View.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAYwCsAAAAQAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAASwBYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T23:27:52.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\Program.cs",
               "RelativeDocumentMoniker": "PLaneTrackerGUI\\Program.cs",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1View.resx",
               "DocumentMoniker": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\Form1View.resx",
               "RelativeDocumentMoniker": "PLaneTrackerGUI\\Form1View.resx",
