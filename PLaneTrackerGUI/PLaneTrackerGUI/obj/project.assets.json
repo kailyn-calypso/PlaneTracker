@@ -8,24 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Isaacke\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Kailyn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\PLaneTrackerGUI.csproj",
+      "projectUniqueName": "C:\\Users\\Kailyn\\OneDrive - John Brown University\\Documents\\JBU\\2024 Fall\\ADv Comp Pro\\ACP_Final\\PLaneTrackerGUI\\PLaneTrackerGUI\\PLaneTrackerGUI.csproj",
       "projectName": "PLaneTrackerGUI",
-      "projectPath": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\PLaneTrackerGUI.csproj",
-      "packagesPath": "C:\\Users\\Isaacke\\.nuget\\packages\\",
-      "outputPath": "M:\\Kisaac\\ACP\\PlaneTracker\\PLaneTrackerGUI\\PLaneTrackerGUI\\obj\\",
+      "projectPath": "C:\\Users\\Kailyn\\OneDrive - John Brown University\\Documents\\JBU\\2024 Fall\\ADv Comp Pro\\ACP_Final\\PLaneTrackerGUI\\PLaneTrackerGUI\\PLaneTrackerGUI.csproj",
+      "packagesPath": "C:\\Users\\Kailyn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kailyn\\OneDrive - John Brown University\\Documents\\JBU\\2024 Fall\\ADv Comp Pro\\ACP_Final\\PLaneTrackerGUI\\PLaneTrackerGUI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Isaacke\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Kailyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -75,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
