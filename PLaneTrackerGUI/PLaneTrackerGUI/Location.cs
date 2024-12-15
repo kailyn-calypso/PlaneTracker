@@ -8,9 +8,10 @@
         public int PositionY { get; set; }
         public int Height { get; set; }
         public int Width { get; set; }
-        public int AverageT = 0;
-        public int[] AverageX = new int[4];
-        public int[] AverageY = new int[4];
+        public int[] AverageX { get; set; }
+        public int[] AverageY { get; set; }
+
+         
         public Plane (int inSpeed, int inPositionX1, int inPositionY1, int inHeight, int inWidth)
         {
             Speed = inSpeed;
