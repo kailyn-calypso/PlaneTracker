@@ -14,6 +14,7 @@
 //        public string plane_status { get; set; }
 //        public string registration_number { get; set; }
 //        public string production_line { get; set; }
+//        public double speed {get; set; }
 
 //        public PlaneLocation:this(0, 0, string.Empty, 0, string.Empty, string .Empty, string.Empty)
 //            { 

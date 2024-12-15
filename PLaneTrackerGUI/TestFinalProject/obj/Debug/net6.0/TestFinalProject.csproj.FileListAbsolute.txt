@@ -1,0 +1,5 @@
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\TestFinalProject\obj\Debug\net6.0\TestFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\TestFinalProject\obj\Debug\net6.0\TestFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\TestFinalProject\obj\Debug\net6.0\TestFinalProject.AssemblyInfoInputs.cache
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\TestFinalProject\obj\Debug\net6.0\TestFinalProject.AssemblyInfo.cs
+C:\Users\Kailyn\OneDrive - John Brown University\Documents\JBU\2024 Fall\ADv Comp Pro\ACP_Final\PLaneTrackerGUI\TestFinalProject\obj\Debug\net6.0\TestFinalProject.csproj.CoreCompileInputs.cache

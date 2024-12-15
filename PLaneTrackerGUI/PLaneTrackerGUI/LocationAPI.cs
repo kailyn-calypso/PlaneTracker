@@ -2,12 +2,13 @@
 //using System.Collections.Generic;
 //using System.Net.Http;
 //using System.Net.Http.Headers;
-////\/https://fr24api.flightradar24.com/
+////\X/https://fr24api.flightradar24.com/
 //////https://aviationstack.com/documentation
+/////https://stackoverflow.com/questions/9620278/how-do-i-make-calls-to-a-rest-api-using-c
 //namespace PLaneTrackerGUI
 //{
-    
-    
+
+
 
 //    public class LocationAPI
 //    {
