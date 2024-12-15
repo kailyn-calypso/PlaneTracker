@@ -1,4 +1,6 @@
-﻿namespace PLaneTrackerGUI
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace PLaneTrackerGUI
 {
     public class Plane
     {
@@ -8,8 +10,9 @@
         public int PositionY { get; set; }
         public int Height { get; set; }
         public int Width { get; set; }
-        public int[] AverageX { get; set; }
-        public int[] AverageY { get; set; }
+        public int AverageT { get; set; }
+        public int[] AverageX { get; set; }=new int[4];
+        public int[] AverageY { get; set; }= new int[4];
 
          
         public Plane (int inSpeed, int inPositionX1, int inPositionY1, int inHeight, int inWidth)

@@ -236,7 +236,7 @@ namespace PLaneTrackerGUI
                 Instructions.Visible = true;
                 start = false;
                 await Task.Delay(1);
-                Task.Delay(10000).Wait();
+                Task.Delay(5000).Wait();
                 MoveTimer.Enabled = true;
                 GameTimer.Enabled = true;
                 Instructions.Visible = false;
@@ -246,7 +246,7 @@ namespace PLaneTrackerGUI
             {
 
 
-                if (x1[2] - x1[1] <= 0)
+                if (!Plane1.GoingRight(x1))
                 {
                     if (predictDistanceX < warningDistance && predictDistanceY < warningDistance)
                         Canvas.DrawImage(WarningAirplaneLeft, Plane1.PositionX, Plane1.PositionY, Plane1.Width, Plane1.Height);
@@ -259,7 +259,7 @@ namespace PLaneTrackerGUI
                         Canvas.DrawImage(DotLeft, x1[i], y1[i] + Plane1.Height / 2, 20, 20);
                     }
                 }
-                if (x1[2] - x1[1] > 0)
+                if (Plane1.GoingRight(x1))
                 {
                     if (predictDistanceX < warningDistance && predictDistanceY < warningDistance)
                         Canvas.DrawImage(WarningAirplaneRight, Plane1.PositionX, Plane1.PositionY, Plane1.Width, Plane1.Height);
@@ -271,7 +271,7 @@ namespace PLaneTrackerGUI
                         Canvas.DrawImage(DotRight, x1[i] + Plane1.Width, y1[i] + Plane1.Height / 2, 20, 20);
                     }
                 }
-                if (x2[2] - x2[1] >= 0)
+                if (Plane2.GoingRight(x2))
                 {
                     if (predictDistanceX < warningDistance && predictDistanceY < warningDistance)
                         Canvas.DrawImage(WarningAirplaneRight, Plane2.PositionX, Plane2.PositionY, Plane2.Width, Plane2.Height);
@@ -284,7 +284,7 @@ namespace PLaneTrackerGUI
                         Canvas.DrawImage(DotRight, x2[i] + Plane2.Width, y2[i] + Plane2.Height / 2, 20, 20);
                     }
                 }
-                if (x2[2] - x2[1] < 0)
+                if (!Plane2.GoingRight(x2))
                 {
                     if (predictDistanceX < warningDistance && predictDistanceY < warningDistance)
                         Canvas.DrawImage(WarningAirplaneLeft, Plane2.PositionX, Plane2.PositionY, Plane2.Width, Plane2.Height);
